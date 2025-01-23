@@ -1,3 +1,3 @@
 # WayP
 
-TODO:
+TODO: add brief introduction about the organization and the project
